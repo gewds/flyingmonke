@@ -1,0 +1,13 @@
+{
+      "name": "flying-monke",
+      "scripts": {
+        "dev": "vite"
+      },
+      "dependencies": {
+        "vue": "^3.2.31"
+      },
+      "devDependencies": {
+        "@vitejs/plugin-vue": "^2.6.4",
+        "vite": "^2.8.0"
+      }
+    }
